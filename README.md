@@ -1,0 +1,12 @@
+Homework
+- Graph Theory and Combinatorics
+    -  Graph Theory
+        - kruskal.c
+        - prims.c
+        - clique.c
+        - q-clique.c -> Not verified if it works
+    - Combinatorics
+        - binary.c
+        - merge.c
+        - quick.c
+- Programming Fundamentals
