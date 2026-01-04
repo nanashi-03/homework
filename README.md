@@ -10,3 +10,7 @@ Homework
         - merge.c
         - quick.c
 - Programming Fundamentals
+    - C
+        - Program 3.4
+        - Program 5.2
+        - Program 6.1
