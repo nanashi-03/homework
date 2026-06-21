@@ -1,16 +1,9 @@
 Homework
-- Graph Theory and Combinatorics
-    -  Graph Theory
-        - kruskal.c
-        - prims.c
-        - clique.c
-        - q-clique.c -> Not verified if it works
-    - Combinatorics
-        - binary.c
-        - merge.c
-        - quick.c
-- Programming Fundamentals
-    - C
-        - Program 3.4
-        - Program 5.2
-        - Program 6.1
+- Semester 1
+    - pf/ -> Programming Fundamentals (C & C++)
+    - gtc/ -> Graph Theory and Combinatorics
+- Semester 2
+    - ap/ -> Advanced Programming (Java & Python)
+    - dbms -> Database Management System 
+    - dsa -> Data Structures and Algorithms
+    - os -> Operating System
