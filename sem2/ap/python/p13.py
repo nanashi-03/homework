@@ -2,10 +2,6 @@ import time
 
 
 def geometric_progression(a, q, limit=100000):
-    """
-    Yields terms of a GP until a term exceeds the limit.
-    Also tracks the time spent inside this generator function.
-    """
     loop_time = 0
     current_term = a
 

@@ -12,7 +12,7 @@ if ! [[ "$num" =~ ^-?[0-9]+$ ]]; then
     exit 1
 fi
 
-echo "=== Multiplication Table for $num ==="
+echo "--- Multiplication Table for $num ---"
 echo "-------------------------------------"
 
 for i in {1..10}; do
